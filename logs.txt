@@ -1,3 +1,4 @@
+1.0.3 DPI Sistemi tamamiyle güncellenmiştir. Yeni profiller eklenmiş ayrıca profillerin çalışmaması durumunda tek tek tüm olasılıkları deneyerek profil üreten otonom bir sistem geliştirilmiştir.
 1.0.2 sürümünde antivirüs veya çeşitli nedenlerde bilmediğiniz dosyaların silinmesi halinde otomatik olarak tespit edip geri yükleyecek dosya bütünlüğünü doğrulama sekmesi eklenmiştir. Sağ alttaki ayarlar simgeli butona tıklayarak ulaşabilirsiniz.
 1.0.1 sürümünde DPI sistemi tamamen yenilenmiştir. Profiller eklenmiş, Blockcheck testi tamamen fonksiyonel hale gelmiştir. Blockcheck kişiye özel profil oluşturmaktadır.
 1.0.0 sürümü başarıyla tamamlanmıştır.
