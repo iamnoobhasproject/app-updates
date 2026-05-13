@@ -1,4 +1,5 @@
-1.0.3 DPI Sistemi tamamiyle güncellenmiştir. Yeni profiller eklenmiş ayrıca profillerin çalışmaması durumunda tek tek tüm olasılıkları deneyerek profil üreten otonom bir sistem geliştirilmiştir.
-1.0.2 sürümünde antivirüs veya çeşitli nedenlerde bilmediğiniz dosyaların silinmesi halinde otomatik olarak tespit edip geri yükleyecek dosya bütünlüğünü doğrulama sekmesi eklenmiştir. Sağ alttaki ayarlar simgeli butona tıklayarak ulaşabilirsiniz.
-1.0.1 sürümünde DPI sistemi tamamen yenilenmiştir. Profiller eklenmiş, Blockcheck testi tamamen fonksiyonel hale gelmiştir. Blockcheck kişiye özel profil oluşturmaktadır.
-1.0.0 sürümü başarıyla tamamlanmıştır.
+1.0.4 The entire application has been completely translated into English to meet global standards. The DPI engine has been massively upgraded with AutoTTL support to prevent decoy packets from crashing destination servers. The Network Analysis (Blockcheck) engine now utilizes Raw IP DoH (DNS over HTTPS) across multiple providers to bypass severe ISP DNS poisoning, along with an emergency fallback IP. A feature to download detailed network analysis reports (.txt) has been added. The exit screen has been redesigned with a sleek animation, automating the safe shutdown and network cleanup process.
+1.0.3 The DPI System has been completely updated. New profiles have been added, and an autonomous system has been developed that generates a custom profile by testing all possibilities one by one in case the standard profiles fail.
+1.0.2 A file integrity verification tab has been added to automatically detect and restore critical files deleted by antivirus software or other reasons. You can access it by clicking the gear icon button at the bottom right.
+1.0.1 The DPI system has been completely renewed. Profiles have been added, and the Blockcheck test has become fully functional. Blockcheck now creates custom profiles tailored to the user's network.
+1.0.0 Version 1.0.0 has been successfully launched.
