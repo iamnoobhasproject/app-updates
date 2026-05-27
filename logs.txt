@@ -1,1 +1,1 @@
-v1.1.0 — Discord-inspired theme rollout across updater, titlebar & exit dialogs; fixed DPI profile dropdown rendering, removed troll modules (Identity/DDoS), and silenced harmless GPU cache warnings on startup.
+v1.2.0 — Discord-inspired theme rollout across updater, titlebar & exit dialogs; fixed DPI profile dropdown rendering, removed troll modules (Identity/DDoS), and silenced harmless GPU cache warnings on startup.
