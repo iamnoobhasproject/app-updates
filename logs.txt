@@ -1,1 +1,1 @@
-[UPDATE v1.0.9] System completely overhauled with a new Spotlight Command Center, full English UI, System Integrity tool, and in-game overlay fixes.
+v1.1.0 — Discord-inspired theme rollout across updater, titlebar & exit dialogs; fixed DPI profile dropdown rendering, removed troll modules (Identity/DDoS), and silenced harmless GPU cache warnings on startup.
