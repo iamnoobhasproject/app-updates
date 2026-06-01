@@ -1,1 +1,2 @@
+ARKADASLAR KUSURA BAKMAYIN FORUMLARDA AKTIF OLAMAYACAĞIM EĞER BİR SORUNUZ VEYA GERİ BİLDİRİMİNİZ OLURSA LÜTFEN BURNEDWOLF-SOURCECODE DA ISSUE AÇIN.
 v1.8.0 — Fixed encrypted DNS not reverting on quit (no more lost internet) and the maximize/restore button across all modules; "Quit BurnedWolf" now fully closes every window.
