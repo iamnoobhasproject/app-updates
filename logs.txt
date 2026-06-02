@@ -1,2 +1,2 @@
 ARKADASLAR KUSURA BAKMAYIN FORUMLARDA AKTIF OLAMAYACAĞIM EĞER BİR SORUNUZ VEYA GERİ BİLDİRİMİNİZ OLURSA LÜTFEN BURNEDWOLF-SOURCECODE DA ISSUE AÇIN.
-v1.8.0 — Fixed encrypted DNS not reverting on quit (no more lost internet) and the maximize/restore button across all modules; "Quit BurnedWolf" now fully closes every window.
+v1.9.0 — Fixed the in-Spotlight updater: "Download & Install" now actually downloads and installs the update instead of just filling the progress bar.
