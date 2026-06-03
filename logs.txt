@@ -1,2 +1,2 @@
-ARKADASLAR KUSURA BAKMAYIN FORUMLARDA AKTIF OLAMAYACAĞIM EĞER BİR SORUNUZ VEYA GERİ BİLDİRİMİNİZ OLURSA LÜTFEN BURNEDWOLF-SOURCECODE DA ISSUE AÇIN.
+Hello dear users, I opened linux version of burnedwolf windows app. I am focused for windows because its more easy. But there will be always lite version of burnedwolf for linux.
 v1.9.0 — Fixed the in-Spotlight updater: "Download & Install" now actually downloads and installs the update instead of just filling the progress bar.
