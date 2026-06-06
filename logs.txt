@@ -1,3 +1,4 @@
-Hello dear users, I opened linux version of burnedwolf windows app. I am focused for windows because its more easy. But there will be always lite version of burnedwolf for linux.
-EN v2.0.0 - Encrypted DNS now self-heals after an unexpected shutdown, restart, or power loss — no more being left without internet.
-TR v2.0.0 Şifreli DNS (DoH) açıkken yaşanan ani kapanma, yeniden başlatma veya elektrik kesintisi sonrası DNS ayarları artık bir sonraki açılışta otomatik onarılıyor — internetsiz kalma sorunu giderildi.
+[TR] v2.0.0 Şifreli DNS (DoH) açıkken yaşanan ani kapanma, yeniden başlatma veya elektrik kesintisi sonrası DNS ayarları artık bir sonraki açılışta otomatik onarılıyor — internetsiz kalma sorunu giderildi.
+[EN] v2.0.0: DNS settings are now automatically repaired on the next startup after a sudden shutdown, reboot, or power outage while Encrypted DNS (DoH) is enabled — the issue of losing internet access has been resolved.
+[RU] v2.0.0: Настройки DNS теперь автоматически восстанавливаются при следующем запуске после внезапного выключения, перезагрузки или отключения электроэнергии при включенном зашифрованном DNS (DoH) — проблема отсутствия интернета устранена.
+Don't forget to check linux lite version of program on Github!
