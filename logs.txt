@@ -1,4 +1,3 @@
-[TR] v2.0.0 Şifreli DNS (DoH) açıkken yaşanan ani kapanma, yeniden başlatma veya elektrik kesintisi sonrası DNS ayarları artık bir sonraki açılışta otomatik onarılıyor — internetsiz kalma sorunu giderildi.
-[EN] v2.0.0: DNS settings are now automatically repaired on the next startup after a sudden shutdown, reboot, or power outage while Encrypted DNS (DoH) is enabled — the issue of losing internet access has been resolved.
-[RU] v2.0.0: Настройки DNS теперь автоматически восстанавливаются при следующем запуске после внезапного выключения, перезагрузки или отключения электроэнергии при включенном зашифрованном DNS (DoH) — проблема отсутствия интернета устранена.
-Don't forget to check linux lite version of program on Github!
+v2.1.0 [EN]: Rebuilt as a single window — DPI control, encrypted DNS and network analysis now live on one screen; Spotlight removed, fresh amber theme across the app, and a what's-new popup on launch.
+v2.1.0 [TR]: Tek pencereye taşındı — DPI kontrolü, şifreli DNS ve ağ analizi artık tek ekranda; Spotlight kaldırıldı, tüm uygulamada yeni amber tema ve açılışta "yenilikler" penceresi eklendi.
+v2.1.0 [RU]: Переход на одно окно — управление DPI, шифрованный DNS и анализ сети теперь на одном экране; Spotlight удалён, новая янтарная тема во всём приложении и окно «что нового» при запуске.
