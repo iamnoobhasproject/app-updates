@@ -1,3 +1,4 @@
-v2.1.0 [EN]: Rebuilt as a single window — DPI control, encrypted DNS and network analysis now live on one screen; Spotlight removed, fresh amber theme across the app, and a what's-new popup on launch.
-v2.1.0 [TR]: Tek pencereye taşındı — DPI kontrolü, şifreli DNS ve ağ analizi artık tek ekranda; Spotlight kaldırıldı, tüm uygulamada yeni amber tema ve açılışta "yenilikler" penceresi eklendi.
-v2.1.0 [RU]: Переход на одно окно — управление DPI, шифрованный DNS и анализ сети теперь на одном экране; Spotlight удалён, новая янтарная тема во всём приложении и окно «что нового» при запуске.
+[TR] v2.2.0: Artık her şey tek pencerede — DPI baypas, şifreli DNS, ağ analizi, Discord ve dosya doğrulama hepsi aynı ekranda toplandı; Spotlight kaldırıldı, tüm uygulama yeni amber temaya geçti ve açılışta yenilikler penceresi eklendi.
+[EN] v2.2.0: Everything now lives in one window — DPI bypass, encrypted DNS, network analysis, Discord and file integrity all on a single screen; Spotlight is gone, the whole app moved to a fresh amber theme, and a what's-new popup greets you on launch.
+[RU] v2.2.0: Теперь всё в одном окне — обход DPI, шифрованный DNS, анализ сети, Discord и проверка целостности на одном экране; Spotlight убран, всё приложение перешло на новую янтарную тему, а при запуске появляется окно «что нового».
+Don't forget to check the Linux lite version on GitHub!
